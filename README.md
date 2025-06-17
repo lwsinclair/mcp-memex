@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/narphorium-mcp-memex-badge.png)](https://mseep.ai/app/narphorium-mcp-memex)
+
 ![memex](docs/images/memex.webp)
 
 # Memex for Model Context Protocol
